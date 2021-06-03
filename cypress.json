@@ -1,0 +1,15 @@
+  {
+    "baseUrl": "https://staging-api.zid.sa/v1",
+    "projectId": "56fh61",
+    "video": false,
+    "env": {
+        "email": "beamer261@testing.com",
+        "password":"12345678",
+        "UserName":"beamer261",
+        "Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIyOCIsImp0aSI6ImUxYTRjYTMzMzkwNjI2NWZlZGEwMTU3OGU3YmZhZjUxYzFkMGE0ODkwNDkzOTllMWJjOGRjYmQxZWI5YmUzYjNiN2E0OWFjMDk5MjIzNzE3IiwiaWF0IjoxNTkxNDYxMDA4LCJuYmYiOjE1OTE0NjEwMDgsImV4cCI6MTYyMjk5NzAwOCwic3ViIjoiMSIsInNjb3BlcyI6WyJtYW5hZ2VyLWFwaXMiXX0.RAKUItghOJHJqtDWVqJpfgBnUXFZG6PdZoNWfHIL5-oN_nMFwaXJo37yNyyP6TTMPQXPdUCKNV93Ht0pCxqtcNJn8AZSFxIEzYcld9EMY28wfQfnp4mpH8xT--aUY2RkYEsovmpnrpSzRnnoOAyNwknpCy-ZPCScPp9qjNV5Jaw6wS4OJjq8hAn5HN-NuSe0YTBq00iQJdEZx5SvyaSl8-LivEm6levahnEnpN_WEPUZdpGCVeRtMu8jghf-ZUGRQ6Bg7UaChlWcUmI-KDWAADOkWl7dhaYpzZ7mDVoGMNKYdFoLhTflTTv9we1TiReZkzg3bIvCptnUYPV2JsHhpEBIGiC6c-lLgu2r9Iu_mHUVOVmFj2Uqgbt8oHRBydA_Tsf1jyj7V0GWrGJECxeZaTluBgWIpgCaGaVG6GvXO0E1ZIE-LNAyfVJOS0i9dw8XdzJongAX34y9hB3GfIXus1g5Yehl9UFh5td7sf21ccH_Na3JT6id69s6fSQ8l4v8Ofj5Aatsw0R8wCyAx6_l82dCwIZSodg_PpFjQEiOFbmNl_VJzADAHgFIxyvgAn16t2D0MEL4dN9geiIM0gsdekuHVUVOhBc67Ihc4weHgkSupX7bJfifhnHJ72nQKxDmiW0Z02Z9uVlw9B-7xFJfB8MOB22P5X0OjcaEzGJw2ks",
+        "Accept-Language": "ar",
+        "User-Agent": "Zid/1.113.00 (web)",
+        "Accept": "application/json",
+        "failOnStatusCode": false
+       }
+  }
